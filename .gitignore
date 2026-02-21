@@ -1,0 +1,4 @@
+.env
+salo
+__pycache
+*/**DS_Store
